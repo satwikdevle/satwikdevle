@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satwikdevle
-- 👀 I’m interested in Machine Learning, python projects, and Cloud Engineering.
+- 👀 I’m interested in AI/ML, Cloud Computing and Robotics.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on open source projects in c, c++, python among others.
+- 💞️ I’m looking to collaborate on open source projects in c, c++, python.
 - 📫 How to reach me - satwikdevle@gmail.com
                        satwik.devle@mitaoe.ac.in
 - 🌍 My Google Cloud/Qwiklabs profile - https://www.cloudskillsboost.google/public_profiles/cc483167-e719-4a2c-824f-6a6adfadebfd
